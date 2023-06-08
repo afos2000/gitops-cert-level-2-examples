@@ -31,4 +31,4 @@ ignoreDifferences:
   kind: secret
   jsonPointers:
   - /data/my-username
-  - /data/my-password
+#   - /data/my-password
